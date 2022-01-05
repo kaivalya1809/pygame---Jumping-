@@ -35,7 +35,7 @@ while run :
         isJump = True
     
     while isJump:
-        
+        kaam kyu nai karra
         if jumpcount >= -8 :
             multiplier = 1
             if jumpcount < 0 :
