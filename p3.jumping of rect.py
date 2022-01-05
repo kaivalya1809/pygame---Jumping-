@@ -35,7 +35,7 @@ while run :
         isJump = True
     
     while isJump:
-        kaam kyu nai karra, bhaad mei ja kunal
+        kaam kyu nai karra, bhaad mei ja kunal, pehle fast ho noobde
         if jumpcount >= -8 :
             multiplier = 1
             if jumpcount < 0 :
